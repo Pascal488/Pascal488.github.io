@@ -1,6 +1,6 @@
 # Simple and clean link up portfolio
 
-![Design preview for Simple and clean link up portfolio](./Img/Theme.jpg)
+![Design preview for Simple and clean link up portfolio](./Img/Theme.png)
 
 ## Hi there! 👋
 
