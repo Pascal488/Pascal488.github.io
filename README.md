@@ -12,4 +12,7 @@ This is just a simple portfolio that connect up
 -And my Resume
 
 
+-Also my projects
+
+
 -[Take a look here](https://pascal488.github.io/)
